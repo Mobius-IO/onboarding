@@ -10,7 +10,7 @@ The code for Mobius Platform is currently in its final stages of development and
 
 We are currently building our first developer maintainer team to help us launch the first stable release of the Mobius Platform. If you are interested in contributing and being part of this foundational phase, please reach out to us. Your involvement will be crucial in shaping the future of open-source innovation at Mobius.
 
-To express your interest and learn more about the opportunities available, please contact us at [developer@mobiusplatform.com](mailto:developer@mobiusx.io).
+To express your interest and learn more about the opportunities available, please contact us at [developer@mobiusx.io](mailto:developer@mobiusx.io).
 
 ## Features
 
